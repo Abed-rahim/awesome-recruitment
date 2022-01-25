@@ -320,6 +320,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SalesQL](https://salesql.com/) 
 - [Swordfish](https://swordfishapp.com) 
 - [Kendo](https://kendoemailapp.com/)
+- [Tomba email finder](https://tomba.io/)
 
 #### :squirrel: Scraping
  - [Data Scraper](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping.
